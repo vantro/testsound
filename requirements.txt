@@ -1,0 +1,7 @@
+PyAudio
+librosa
+resampy
+wavio
+sounddevice
+matplotlib
+numpy
